@@ -72,6 +72,8 @@ class MyConfig(ConfigBase):
 
         self.num_workers = 16
         self.gpus = "0,1,2,3,4,5,6,7"
+        
+        self.test_epoch=-1
 
         # distributed
         self.rank = 0

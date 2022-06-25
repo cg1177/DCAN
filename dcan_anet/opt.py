@@ -15,7 +15,7 @@ class MyConfig(ConfigBase):
         # path.
         self.video_info_path = './data/anet/video_info_new.csv'
         self.video_anno_path = './data/anet/anet_anno_action.json'
-        self.feature_path = '/home/data4/cg/data/'
+        self.feature_path = '/path/to/anet_feature/'
         self.evaluation_json_path = './data/eval/activity_net_1_3_new.json'
         self.result_json_path = './output/result_proposal.json'
         self.save_fig_path = "./output/result_proposal.jpg"

@@ -45,6 +45,10 @@ Zenodo:
 
 [ActivityNet v1.3](https://zenodo.org/record/6650813) , [THUMOS-14](https://zenodo.org/record/6652094)
 
+---
+
+In order to use the downloaded video features, the **feature_path** attributes in the two **opt.py** need to be modified respectively.
+
 ### Evaluate our model
 Download the checkpoints in the [release](https://github.com/cg1177/DCAN/releases) page.
 

@@ -17,7 +17,7 @@ class MyConfig(ConfigBase):
         # path.
         self.video_info_path = './data/thumos_annotations/'
         self.video_anno_path = './data/thumos_annotations/'
-        self.feature_path = '/home/data4/cg/data/thumos14_tstsn_hdf5/'
+        self.feature_path = '/path/to/thumos_feature/'
         self.evaluation_json_path = './data/thumos_annotations/thumos_gt.json'
         self.result_json_path = './output_thumos/result_proposal.json'
         self.test_anno_path = "./data/thumos_annotations/test_Annotation.csv"

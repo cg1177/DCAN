@@ -103,15 +103,14 @@ For ActivityNet v1.3, the training and testing procedure is similar to THUMOS-14
 ## Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
 ```
-@article{DBLP:journals/corr/abs-2112-03612,
+@inproceedings{2022dcan,
+  title     = {{DCAN:} Improving Temporal Action Detection via Dual Context Aggregation},
   author    = {Guo Chen and
                Yin{-}Dong Zheng and
                Limin Wang and
                Tong Lu},
-  title     = {{DCAN:} Improving Temporal Action Detection via Dual Context Aggregation},
-  journal   = {CoRR},
-  volume    = {abs/2112.03612},
-  year      = {2021},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  year      = {2022},
 }
 ```
 

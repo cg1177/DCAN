@@ -2,6 +2,8 @@
 The official implementation of the paper "[DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612)".
 
 ## News
+(2022/09/01) Preliminary code of our end-to-end training framework [BasicTAD](https://arxiv.org/abs/2205.02717) has been released in this [repo](https://github.com/MCG-NJU/BasicTAD).
+
 (2022/06/21) Code and models are released.
 
 

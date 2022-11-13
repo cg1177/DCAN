@@ -1,6 +1,9 @@
 # DCAN
 The official implementation of the paper "[DCAN: Improving Temporal Action Detection via Dual Context Aggregation](https://arxiv.org/abs/2112.03612)".
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dcan-improving-temporal-action-detection-via/temporal-action-localization-on-thumos14)](https://paperswithcode.com/sota/temporal-action-localization-on-thumos14?p=dcan-improving-temporal-action-detection-via)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dcan-improving-temporal-action-detection-via/temporal-action-localization-on-activitynet)](https://paperswithcode.com/sota/temporal-action-localization-on-activitynet?p=dcan-improving-temporal-action-detection-via)
+
 ## News
 (2022/09/01) Preliminary code of our end-to-end training framework [BasicTAD](https://arxiv.org/abs/2205.02717) has been released in this [repo](https://github.com/MCG-NJU/BasicTAD).
 
